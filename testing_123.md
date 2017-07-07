@@ -1,3 +1,3 @@
 # This is the best repository
 
-Markdown is really fun and cool.
+Because Steve is the best guy.
